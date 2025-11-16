@@ -12,3 +12,5 @@ torch
 torchvision
 clip
 git+https://github.com/facebookresearch/segment-anything.git
+tensorflow
+tensorflow_hub
