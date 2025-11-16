@@ -12,5 +12,3 @@ torch
 torchvision
 clip
 segment_anything
-build_sam
-SamAutomaticMaskGenerator
