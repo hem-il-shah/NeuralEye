@@ -96,4 +96,8 @@ This project was developed during the **AICTE Internship on AI by Edunet Foundat
 =======
 # NeuralEye
 🌾 NeuralEye: AI Computer Vision Toolkit A Streamlit app showcasing cutting-edge deep learning for vision: Object Detection, Image Segmentation, Neural Style Transfer, Human Pose Estimation, Plant Disease Detection, and more. Unlock the power of AI-driven image analysis through a user-friendly interface. 🚀
+
+NOTE: For IMAGE SEGMENTATION to work, download the file from the link given below, and place it inside the "model_is" folder.
+Link: https://drive.google.com/file/d/1DCx11dB2oW7HsBHhN74PgK_rwHnXJyrq/view?usp=sharing
+(If the link doesn't work, copy paste it in your preferred browser)
 >>>>>>> 29e83bba1cc64ccd16ebc1a7cba434266a06aafe
