@@ -9,3 +9,5 @@ tensorflow
 keras
 opencv_python_headless
 torch
+torchvision
+clip
